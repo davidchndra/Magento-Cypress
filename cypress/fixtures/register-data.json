@@ -1,0 +1,40 @@
+{
+    "registerArray": [
+      {
+        "firstName": "David{enter}",
+        "lastName": "Testing Aja{enter}",
+        "accountEmail": "davidtesting_tak2@gmail.com{enter}",
+        "firstPassword": "Davidtestingtak123!{enter}",
+        "confirmPassword": "Davidtestingtak123!{enter}"
+      },
+      {
+        "firstName": "David{enter}",
+        "lastName": "No Uppercase{enter}",
+        "accountEmail": "davidtesting_tak@gmail.com{enter}",
+        "firstPassword": "davidtestingtak123!{enter}",
+        "confirmPassword": "davidtestingtak123!{enter}"
+      },
+      {
+        "firstName": "David{enter}",
+        "lastName": "No Special{enter}",
+        "accountEmail": "davidtesting_tak@gmail.com{enter}",
+        "firstPassword": "Davidtestingtak123{enter}",
+        "confirmPassword": "Davidtestingtak123{enter}"
+      },
+      {
+        "firstName": "David{enter}",
+        "lastName": "Registered{enter}",
+        "accountEmail": "davidtesting_tak2@gmail.com{enter}",
+        "firstPassword": "Davidregistered123!{enter}",
+        "confirmPassword": "Davidregistered123!{enter}"
+      },
+      {
+        "firstName": "David{enter}",
+        "lastName": "{enter}",
+        "accountEmail": "davidtesting_tak@gmail.com{enter}",
+        "firstPassword": "Davidregistered123!{enter}",
+        "confirmPassword": "Davidregistered123!{enter}"
+      }
+    ]
+  }
+  
